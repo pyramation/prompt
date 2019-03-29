@@ -1,7 +1,7 @@
 
 # @pyramation/prompt
 
-Improvement of https://github.com/pyramation/inquirerer
+Improvement of https://github.com/pyramation/inquirerer that bakes in minimist style arguments. 
 
 ## Example
 
