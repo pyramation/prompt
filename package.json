@@ -1,5 +1,5 @@
 {
-  "name": "prompt",
+  "name": "@pyramation/prompt",
   "version": "0.1.0",
   "description": "Inquirerer with minimist style args",
   "author": "Dan Lynch <pyramation@gmail.com>",
